@@ -55,7 +55,7 @@ java -jar target/online-0.0.1-SNAPSHOT.jar
 
 🌐 Base URL
 
-http://localhost:8085
+(https://female-joanna-bhuvaneshwaridevenditran-9b1226cf.koyeb.app)
 
 📌 API Endpoints
 
@@ -63,7 +63,7 @@ http://localhost:8085
 
 POST
 
-/api/items/add
+(https://female-joanna-bhuvaneshwaridevenditran-9b1226cf.koyeb.app/api/items/add)
 
 Request Body
 {
@@ -74,7 +74,7 @@ Request Body
 
 GET
 
-/api/items/1
+(https://female-joanna-bhuvaneshwaridevenditran-9b1226cf.koyeb.app/api/items/1)
 
 
 
